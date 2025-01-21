@@ -1,7 +1,4 @@
-# first-repository
-## git config
-## git config
-add new contents
-#### git config
-add new contents again!
+# 모두의 연구소 데이터사이언티스트과정
+
+
 
